@@ -12,6 +12,13 @@ export default function Projects({ isVisible }) {
       image: '/fanina.png',
     },
     {
+      title: 'SIFT',
+      description: 'SIFT is an AI-powered recruitment screening platform designed to revolutionize how HR professionals manage high-volume applications. By leveraging the advanced natural language and document understanding capabilities of Google Gemini 1.5 Flash, SIFT automates the tedious task of resume filtering with exceptional precision. The platform empowers recruiters to instantly extract core skills, generate comprehensive candidate summaries, and calculate objective matching scores tailored to specific job descriptions. By providing explainable AI-driven insights, SIFT not only reduces manual screening time by up to 80% but also significantly minimizes human bias, ensuring that the most qualified talent is never overlooked.',      
+      tech: ['React', 'Next.js', 'Tailwind CSS', 'JavaScript'],
+      github: 'https://github.com/gantarimentari/gdgoc-team5',
+      image: '/sift.png',
+    },
+    {
       title: 'Pawfriend',
       description: 'Pawfriend is a web application project developed for my Web Programming Practicum course. The project focuses on creating an online platform that provides pet-related products and basic service features. Built using HTML, CSS, Bootstrap, and PHP, Pawfriend showcases essential pages such as product listings, service information, and simple user interactions.As the Front-End developer in this project, I worked on designing the interface, structuring the layout, and ensuring the website remains clean, responsive, and easy to navigate..',
       tech: ['HTML', 'JavaScript', 'CSS', 'Bootstrap', 'PHP'],
